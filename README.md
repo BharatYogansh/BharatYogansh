@@ -16,3 +16,11 @@ Google Cloud (CI/CD, Kubernetes, Cloud Run) · Anthropic/Claude (Claude Code, Cl
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/bharat-yogansh) · bharatyogansh@gmail.com
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=BharatYogansh&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharatYogansh&layout=compact)
+![Streak](https://streak-stats.demolab.com?user=BharatYogansh)
+
+## Skills
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,fastapi,react,git,docker,gcp,linux)
