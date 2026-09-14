@@ -29,7 +29,6 @@ Google Cloud (CI/CD, Kubernetes, Cloud Run) · Anthropic/Claude (Claude Code, Cl
 ![Streak](https://streak-stats.demolab.com?user=BharatYogansh)
 
 ## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=BharatYogansh&theme=flat&no-frame=true&column=7)
-
+![Trophies](https://github-profile-trophy-mocha-seven.vercel.app/?username=BharatYogansh&theme=flat&no-frame=true&column=7)
 ## Skills
 ![Skills](https://skillicons.dev/icons?i=python,java,cpp,fastapi,react,git,docker,gcp,linux)
