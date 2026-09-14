@@ -1,3 +1,5 @@
+![snake](https://raw.githubusercontent.com/BharatYogansh/BharatYogansh/output/github-contribution-grid-snake.svg)
+
 # Hi, I'm Bharat Yogansh 👋
 
 B.Tech CSE Graduate | Python, Backend & ML/Data Science | Building IoT systems, ML pipelines, and cloud-deployed apps
