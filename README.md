@@ -1,4 +1,3 @@
-![snake](https://raw.githubusercontent.com/BharatYogansh/BharatYogansh/output/github-contribution-grid-snake.svg)
 
 
 <h1 align="center">Hi, I'm Bharat Yogansh 👋</h1>
